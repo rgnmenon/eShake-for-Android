@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Shake to Call</string>
+    <string name="app_name">eshake</string>
+     <string name="no_to_call">Enter Number to Call</string>
+     <string name="shake_to_call">Shake to call</string>
+     
+</resources>
